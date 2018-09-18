@@ -13,3 +13,7 @@ Count: 1
 Tutorial Sept 17
 Count: 90%
 10:15 - 11:05 MB 285
+
+Tutorial Sept 18
+Count: 50%
+14:45 - 15:35 H 529
