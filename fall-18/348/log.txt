@@ -21,3 +21,7 @@ Count: 50%
 POD Sept 19
 Count: 0
 11:30 - 14:30 H815
+
+Tutorial Sept 25
+Count: 80%
+10:15 - 11:05 MB 285
