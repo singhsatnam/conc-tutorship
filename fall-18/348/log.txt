@@ -29,3 +29,7 @@ Count: 80%
 Tutorial Sept 25
 Count: 30%
 14:45 - 15:35 H 529
+
+POD Sept 26
+Count: 0
+11:30 - 14:30 H815
