@@ -33,3 +33,11 @@ Count: 30%
 POD Sept 26
 Count: 0
 11:30 - 14:30 H815
+
+Tutorial Sept 30
+Count: 30%
+10:15 - 11:05 MB 285
+
+Tutorial Oct 2
+Count: 50%
+14:45 - 15:35 H 529
