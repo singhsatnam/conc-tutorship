@@ -41,3 +41,7 @@ Count: 30%
 Tutorial Oct 2
 Count: 50%
 14:45 - 15:35 H 529
+
+POD Oct 03
+Count: 3
+11:30 - 14:30 H815
