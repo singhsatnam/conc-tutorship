@@ -31,5 +31,9 @@ Count: 1
 H 854 9:00 - 12:00
 
 Oct 9
-Count: 
+Count: 1
 H 854 11:30
+
+Oct 12
+Count: 
+H 854 10:30 
