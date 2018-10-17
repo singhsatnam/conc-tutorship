@@ -53,3 +53,7 @@ Count: 60%
 POD Oct 10
 Count: 9
 11:30 - 14:30 H815
+
+Tutorial Oct 15
+Count: 90%
+10:15 - 11:05 MB 285
