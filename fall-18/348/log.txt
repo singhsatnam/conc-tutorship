@@ -65,3 +65,15 @@ Count: 50%
 POD Oct 17
 Count: 2
 11:30 - 14:30 H815
+
+Tutorial Oct 22
+Count: 70%
+10:15 - 11:05 MB 285
+
+Tutorial Oct 23
+Count: 40%
+14:45 - 15:35 H 529
+
+POD Oct 24
+Count: 5
+11:30 - 14:30 H815
