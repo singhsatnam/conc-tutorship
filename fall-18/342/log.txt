@@ -42,3 +42,11 @@ Count: 20%
 Oct 17
 Count: 30%
 14:45 - 15:35 FG B055
+
+Oct 19
+Count: 20%
+15:45 - 16:35 FG B055
+
+Oct 24
+Count: 20%
+14:45 - 15:35 FG B055
