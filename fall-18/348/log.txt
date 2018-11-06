@@ -85,3 +85,7 @@ Count: 60%
 Tutorial Oct 30
 Count: 50%
 14:45 - 15:35 H 529
+
+Tutorial Nov 05
+Count: 50%
+10:15 - 11:05 MB 285
