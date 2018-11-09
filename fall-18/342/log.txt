@@ -58,3 +58,11 @@ Count: 0
 Oct 31
 Count: 30%
 14:45 - 15:35 FG B055
+
+Nov 02
+Count: 40%
+15:45 - 16:35 FG B055
+
+Nov 07
+Count: 30%
+14:45 - 15:35 FG B055
